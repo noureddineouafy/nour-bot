@@ -120,6 +120,7 @@
         "hxz-api":"*",
         "prodia":"*",
         "deepai":"*",
+        "@ruhend/scraper":"*",
         "ytdl-core": "^4.11.5"
     }
 }
